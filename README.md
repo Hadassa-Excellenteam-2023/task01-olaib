@@ -1,8 +1,9 @@
 # task01-olaib
 
 # Vector and Stack custom classes (OOP | c++)
-
+<hr>
 ## Description
 This is a simple program (2 folders):
 - Vector class that can be used to store integers.
-- Stack class that use our vector custom class.
+- Stack class that use our vector custom class. 
+
